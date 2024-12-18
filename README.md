@@ -38,3 +38,4 @@ Tworzenie i zapisywanie kodu QR
 img = qr.make_image(fill='black', back_color='white')
 img.save("qr_code.png")
 ```
+![qr_code](https://github.com/user-attachments/assets/2e257c8f-f65c-4ca7-9e44-7a758ed942fd)
